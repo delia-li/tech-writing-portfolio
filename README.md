@@ -10,7 +10,7 @@ https://github.com/delia-li/tech-writing-portfolio/assets/14004788/9d6d75d0-bb59
 
 
 * Sample 2: Feature Overview
-![Hero image of Insights capture download page](./insights_capture/hero_image.png?raw=true)
+<img src="./insights_capture/hero_image.png" width="800">
 
 * Sample 3: App design technical proof-of-concept
 
