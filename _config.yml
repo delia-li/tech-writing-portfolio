@@ -4,5 +4,3 @@ title: Delia Li - Technical Writer
 description: Welcome to my technical writing portfolio! Thank you for taking the time to review my work samples.
 url: https://delia-li.github.io/tech-writing-portfolio/
 logo: ink_logo.svg
-plugins:
-  - jekyll-default-layout
