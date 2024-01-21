@@ -18,15 +18,15 @@ Save the installer somewhere you’ll remember. Many users select `Downloads`.
 <img src="./downloads.png" width="800">
 
 Run the installer, click `Yes` to allow it to make changes to your computer, and then follow the instructions.
-<img src="./installer.png" width="800">
+<img src="./installer.png" width="600">
 
 Once the installation is complete, click launch.
 
 Sign in with your email and follow the last set of steps for setup.
-<img src="./signin.png" width="500">
+<img src="./signin.png" width="600">
 
 Now you’re ready to go! You can start using the features below.
-<img src="./ready.png" width="500">
+<img src="./ready.png" width="600">
 
 ## Recording your screen
 The primary feature of Insights Capture is recording your screen. While most users use this app to record their gaming sessions, you can also use Insights to take any screen recording outside of gaming.
@@ -35,17 +35,17 @@ The primary feature of Insights Capture is recording your screen. While most use
 If Overwolf supports your game, you can use Insights Capture to record your game automatically. If you just want to record your screen or you want to record a game that is not integrated with Overwolf, check out [Method 2](./insights_capture.md#method-2-all-other-screen-recordings).
 
 You can enable auto-recording in `Settings > Recording > Enable auto record`. When this is enabled, Insights Capture will automatically start recording when your Overwolf-supported game begins, and finish recording once your game has finished.
-<img src="./auto_record_setting.png" width="500">
+<img src="./auto_record_setting.png" width="800">
 
 You can also turn off auto-record in settings and start recording in the overlay that shows up at the start of each game. You can adjust the settings for each specific game at `Settings > [Your game] > Auto launch`.
 <img src="./game_specific_launch_setting.png" width="500">
 
 You can start and stop recordings using the in-game overlay.
-<img src="./overlay.png" width="300">
+![Image of overlay in an Overwolf-supported game](./overlay.png)
 
 ### Method 2: All other screen recordings
 Click on the Screen Recorder button at the top left of Insights Capture. In the dropdown, click the red button to begin recording. Click it again to stop recording.
-<img src="./screen_recording.png" width="500">
+![Image of the screen recording option in insights capture](./screen_recording.png)
 
 ## Editing videos
 A nice feature of Insights Capture is that you can make simple edits to videos without having to download a separate video editing software. You can take short clips of a long video, or merge clips into a single video of highlights to share with your friends.
