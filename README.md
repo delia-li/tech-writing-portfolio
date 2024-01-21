@@ -9,8 +9,7 @@ https://github.com/delia-li/tech-writing-portfolio/assets/14004788/9d6d75d0-bb59
 
 
 
-* Sample 2: Feature Overview
-<img src="./insights_capture/hero_image.png" width="800">
+* [Sample 2: An overview of features in Insights Capture, a screen recording software](./insights_capture/insights_capture.md)
 
 * Sample 3: App design technical proof-of-concept
 
